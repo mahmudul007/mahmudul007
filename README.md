@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linta-s&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudul" /> </p>
 - 🔭 I’m currently working on improve my skills.
 
-- 🌱 I’m currently learning **React Nodejs Laravel**
+- 🌱 I’m currently learning **react typescript**
 
 - 👨‍💻 All of my projects are available at [mahmudulportfolio.netlify.app](mahmudulportfolio.netlify.app)
 
