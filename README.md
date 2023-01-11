@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1657895539~exp=1657896139~hmac=4ca37c4c9094bdef08e7fa5fa830feea63f44ee419c26ccbe4fd5331fcd7d19e&w=996">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linta-s&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudul" /> </p>
-- 🔭 I’m currently working on improve my skills.
+- 🔭 I’m currently working as Laravel Developer.
 
-- 🌱 I’m currently learning **react typescript**
+- 🌱 I’m currently learning stage of Laravel PHP
 
 - 👨‍💻 All of my projects are available at [mahmudulportfolio.netlify.app](mahmudulportfolio.netlify.app)
 
