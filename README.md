@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linta-s&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudul" /> </p>
 - 🔭 I’m currently working as Laravel Developer.
 
-- 🌱 I’m currently learning stage of Laravel PHP
+- 🌱 I’m currently Junior level of Laravel PHP
 
 - 👨‍💻 All of my projects are available at [mahmudulportfolio.netlify.app](mahmudulportfolio.netlify.app)
 
