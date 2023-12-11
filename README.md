@@ -8,7 +8,7 @@
 - 🌱 I’m currently work as junior software engineer , and open for best next move as a software developer .
 
 
-- 💬 Ask me about **react nodejs**
+- 💬 Ask me about **react nodejs Php laravel**
 
 - 📫 How to reach me **sayedmahmudul05@gmail.com**
 
