@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently work as junior software engineer , and open for best next move as a software developer .
 
-- 👨‍💻 All of my projects are available at [mahmudulportfolio.netlify.app](mahmudulportfolio.netlify.app)
 
 - 💬 Ask me about **react nodejs**
 
