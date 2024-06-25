@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linta-s&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudul" /> </p>
 - 🔭 I’m currently working  on javascript ,php ,laravel ,react ,sql,no sql .
 
-- 🌱 I’m currently work as junior software engineer , and open for best next move as a software developer .
+- 🌱 I’m currently work as a software engineer , and open for best next move as a software engineer .
 
 
 - 💬 Ask me about **react nodejs Php laravel**
