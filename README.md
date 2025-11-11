@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Engineer | Laravel & React Developer | System Designer</h3>
 
 💻 I build scalable systems — from restaurant management platforms to data-driven reporting dashboards.  
-⚙️ Skilled in **Laravel**, **React.js**, **MySQL**, **Node.js**, and **API design**.  
+⚙️ Skilled in **Laravel**, **React.js**, **Next.js**, **MySQL**, **Node.js**, and **API design**.  
 📊 Passionate about **AI-powered analytics**, **automation**, and **clean architecture**.  
 
 📫 Reach me at:  
