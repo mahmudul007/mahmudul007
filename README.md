@@ -17,6 +17,3 @@
 <a href="https://www.linkedin.com/in/sayed-mahmudul-hassan-1a9006205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayed-mahmudul-hassan-1a9006205/" height="30" width="40" /></a>
 <a href="https://web.facebook.com/ikram007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/ikram7g/" height="30" width="40" /></a>
 </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudul007&show_icons=true&locale=en" alt="mahmudul007" /></p>
