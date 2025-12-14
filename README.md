@@ -14,4 +14,4 @@
 ---
 
 📫 **Reach me at:**  
-[LinkedIn](https://www.linkedin.com/in/sayed-mahmudul-hassan-1a9006205/) | [Portfolio](#) | [Email](mailto:sayedmahmudul05@gmail.com)| [PortFolio](https://mahmudul-portfolio.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/sayed-mahmudul-hassan-1a9006205/) | [Email](mailto:sayedmahmudul05@gmail.com)| [PortFolio](https://mahmudul-portfolio.vercel.app/)
